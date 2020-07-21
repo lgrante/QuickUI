@@ -2,7 +2,7 @@
 ## What is QuickUI?
 *QuickUI* is a C++ library that allows you to build any application or game very quickly. You have two way to build your app: 
 - Develop it with built-in QuickUI methods and class. 
-- Write it with an XML/JSON like syntax very easy to master then call the methods to load your app files and it will interpreted by QuickUI.
+- Write it with an XML/JSON like syntax very easy to master then call the method to load your app files and let QuickUI doing the job!
 
 **But wait, you're just reproducing *Qt* library?**
 Not exactly... For two reasons:
